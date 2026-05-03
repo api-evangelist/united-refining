@@ -1,0 +1,42 @@
+vocabulary:
+  name: United Refining Company Vocabulary
+  description: Domain vocabulary for United Refining Company covering petroleum refining, fuel distribution, and retail operations.
+  version: 1.0.0
+  created: '2026-05-03'
+  modified: '2026-05-03'
+
+terms:
+  - term: PetroleumRefinery
+    label: Petroleum Refinery
+    definition: An industrial facility that processes crude oil into refined petroleum products such as gasoline, diesel, and heating oil. United Refining operates a refinery in Warren, Pennsylvania.
+    domain: Operations
+
+  - term: IntegratedPetroleumCompany
+    label: Integrated Petroleum Company
+    definition: A company that operates across multiple segments of the petroleum value chain including refining and retail distribution. United Refining is an independent integrated petroleum company.
+    domain: Business Model
+
+  - term: KwikFill
+    label: Kwik Fill
+    definition: United Refining Company's primary retail gasoline station and convenience store brand operating across the northeastern United States.
+    domain: Retail Brand
+
+  - term: CountryFair
+    label: Country Fair
+    definition: An additional convenience store brand operated by United Refining Company in the northeastern United States.
+    domain: Retail Brand
+
+  - term: HeatingOil
+    label: Heating Oil
+    definition: A petroleum fuel product used primarily for residential and commercial space heating. One of the refined products distributed by United Refining.
+    domain: Products
+
+  - term: RefiningCapacity
+    label: Refining Capacity
+    definition: The maximum volume of crude oil that a refinery can process per day, measured in barrels per day (BPD).
+    domain: Operations
+
+  - term: CrudeOil
+    label: Crude Oil
+    definition: Unrefined petroleum extracted from the ground. United Refining's Warren refinery processes crude oil into gasoline, diesel, and other products.
+    domain: Raw Materials
