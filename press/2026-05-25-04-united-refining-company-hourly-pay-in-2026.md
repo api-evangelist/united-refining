@@ -1,7 +1,9 @@
 ---
 title: United Refining Company Hourly Pay in 2026
 url: https://www.payscale.com/research/US/Employer=United_Refining_Company/Hourly_Rate
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"United Refining" press release artificial intelligence'
 position: 4
 source: serpapi-google

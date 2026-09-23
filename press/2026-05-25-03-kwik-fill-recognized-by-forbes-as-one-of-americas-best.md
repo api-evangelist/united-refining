@@ -1,7 +1,9 @@
 ---
 title: Kwik Fill recognized by Forbes as one of America's Best ...
 url: https://www.wbng.com/2026/02/24/kwik-fill-recognized-by-forbes-one-americas-best-midsized-employers/
-date: '2026-05-25'
+published: '2026-02-24'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"United Refining" press release artificial intelligence'
 position: 3
 source: serpapi-google

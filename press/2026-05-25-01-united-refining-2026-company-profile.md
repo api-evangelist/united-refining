@@ -1,7 +1,9 @@
 ---
 title: United Refining 2026 Company Profile
 url: https://pitchbook.com/profiles/company/94329-01
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"United Refining" press release artificial intelligence'
 position: 1
 source: serpapi-google
